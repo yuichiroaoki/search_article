@@ -1,2 +1,2 @@
 # search_article
-This is a sakple readme file.
+This is a samle readme file.
